@@ -51,7 +51,19 @@ label[0/1] \t sentence1 \t sentence2 \t ...
 - [Theano](http://deeplearning.net/software/theano/) : Based graph computing package
 - [Lasagne](http://lasagne.readthedocs.io/en/latest/) : Based DL package
 
-## Reference
+## References 
+If you use any source codes or datasets included in this toolkit in your work, please cite the following paper. The bibtex are listed below:
+
+    [Wu et al, 2016]:
+     @inproceedings{wu2016ranking,
+       title={Ranking responses oriented to conversational relevance in chat-bots},
+       author={Wu, Bowen and Wang, Baoxun and Xue, Hui},
+       booktitle={Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers},
+       pages={652--662},
+       year={2016}
+     }
+
+## References of this project
 - [Ranking Responses Oriented to Conversational Relevance in Chat-bots](https://www.aclweb.org/anthology/C/C16/C16-1063.pdf)
 - [End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895v5.pdf)
 - [The Ubuntu Dialogue Corpus - A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL40.pdf)
